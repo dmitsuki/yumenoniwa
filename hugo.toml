@@ -1,0 +1,5 @@
+baseURL = ''
+languageCode = 'en-us'
+title = '夢の庭'
+theme = "hugo-theme-m10c"
+author = "Kevin Simpson"
