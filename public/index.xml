@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>夢の庭</title>
-    <link>http://localhost:1313/</link>
+    <link>https://yumenoniwa.com/</link>
     <description>Recent content on 夢の庭</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Feb 2025 23:35:55 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 May 2025 10:29:59 -0700</lastBuildDate>
+    <atom:link href="https://yumenoniwa.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>http://localhost:1313/docs/test/</link>
-      <pubDate>Sat, 08 Feb 2025 23:35:55 -0800</pubDate>
-      <guid>http://localhost:1313/docs/test/</guid>
-      <description>&lt;h3 id=&#34;this-is-a-title&#34;&gt;This is a title&lt;/h3&gt;&#xA;&lt;p&gt;That was a title&lt;/p&gt;</description>
+      <title>Starting a Blog in 2025</title>
+      <link>https://yumenoniwa.com/docs/starting-a-blog-in-2025/</link>
+      <pubDate>Thu, 29 May 2025 10:29:59 -0700</pubDate>
+      <guid>https://yumenoniwa.com/docs/starting-a-blog-in-2025/</guid>
+      <description>&lt;h3 id=&#34;late-to-the-trend&#34;&gt;Late to the trend&lt;/h3&gt;&#xA;&lt;p&gt;2025 seems like a weird time to start a blog, but with the growing amount of automatically generated content, I figured why not add a little bit of humanity to the world by starting a vintage, hand written blog?&lt;/p&gt;&#xA;&lt;p&gt;This blog is nothing special. It&amp;rsquo;s just a place for me to write my thoughts about life, art and programming. I don&amp;rsquo;t particuarly expect anybody to read it, but having a sort of &amp;ldquo;digital dairy&amp;rdquo; is a nice thing to have. It also acts as a nice digital footprint to look back on to see what I was doing or thinking about at certain times. Now that I&amp;rsquo;m in my 30&amp;rsquo;s, when I think about my 20&amp;rsquo;s I have a general idea of everything that happened, but&#xA;very limited documented expereinces. I didn&amp;rsquo;t journal, I don&amp;rsquo;t take many pictures of anything, and the only thing I have to go by is my memory that get&amp;rsquo;s refreshed whenever I see work from certain years. Having cohesive thoughts placed together to look back on will be nice.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

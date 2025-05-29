@@ -2,4 +2,13 @@ baseURL = 'https://yumenoniwa.com'
 languageCode = 'en-us'
 title = '夢の庭'
 theme = "hugo-theme-m10c"
+
+[params]
 author = "Kevin Simpson"
+description = "An artist/programmer from a pre-AI internet."
+avatar = "/images/avatar.jpg"
+
+[[params.social]]
+  icon = "brand-bluesky"
+  name = "My bluesky"
+  url = "https://bsky.app/profile/daizenart.bsky.social"
